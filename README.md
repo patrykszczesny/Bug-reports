@@ -1,1 +1,1 @@
-# bug_reports
+Przykładowe zgłoszenia błędów
